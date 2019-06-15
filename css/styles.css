@@ -1,0 +1,28 @@
+h1 {
+  color: #6906A2;
+}
+
+body {
+  background-color: #FFD700;
+}
+
+.list-item {
+  font-family: monospace;
+}
+
+#css-item {
+  color: #6906A2;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #6906A2;
+  width: 30%;
+}
+
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
